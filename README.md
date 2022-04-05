@@ -17,6 +17,12 @@ Codacy -Static Code Analysis
 [![Valgrind](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/valgrind.yml)
 
 
+* cppcheck action
+
+[![cppcheck-action](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/cppcheck-action.yml)
+
+
+
 * Git Inspector
 
 [![Contribution Check - Git Inspector](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/git_inspector.yml)
